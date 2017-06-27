@@ -1,4 +1,4 @@
-//泛型
+//泛型　generic
 public class test{
 	public static void main(String[] args){
 		
