@@ -1,3 +1,4 @@
+﻿//generic
 //泛型
 public class test{
 	public static void main(String[] args){
